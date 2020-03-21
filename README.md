@@ -78,5 +78,5 @@ Training with Naive Bayes Algorithm
 > Accuracy :0.8936170212765957
 
 ## System flow chart
-<img style="width:250px;height:500px" src="https://pic.downk.cc/item/5e75736a9d7d586a54892936.jpg" />
+<img style="width:250px;height:500px" src="Screen/flow chart.jpg" />
 
